@@ -8,6 +8,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 from PIL import Image
 import io
+python-3.10
 
 # ✅ STEP 1: UI Inputs
 st.title("🍅 Tomato Farming Advisory AI System")
